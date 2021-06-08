@@ -1,0 +1,43 @@
+.content {
+  width: 1200px;
+  margin: 20px auto;
+}
+.page_header {
+  color: blue;
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+}
+
+.menu {
+  display: flex;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+
+li {
+  margin: 0 20px;
+}
+.image {
+  width: 50%;
+  position: relative;
+  top: 150px;
+  left: 600px;
+}
+.text02 {
+  font-size: 55px;
+}
+.box2 {
+  width: 75%;
+  background-color: navy;
+  height: 170px;
+}
