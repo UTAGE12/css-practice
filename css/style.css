@@ -1,11 +1,12 @@
 .content {
   width: 1200px;
-  margin: 20px auto;
+  margin: 20px 0;
 }
 .page_header {
   color: blue;
   display: flex;
   justify-content: space-between;
+  margin: 0 10px;
 }
 
 p {
